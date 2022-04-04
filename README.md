@@ -1,6 +1,7 @@
-![Captura de tela 2022-03-30 125634](https://user-images.githubusercontent.com/81639067/161605954-a57e8085-986a-4d33-89de-7e040070a3f0.png)
-![Captura de tela 2022-03-31 181812](https://user-images.githubusercontent.com/81639067/161606044-632efcdc-9543-4509-a640-1c7916cf1b28.png)
-![Captura de tela 2022-03-30 100701](https://user-images.githubusercontent.com/81639067/161605522-f8ea5f4e-de44-4f0b-a4b8-7b0a85817962.png)
+![Captura de tela 2022-03-31 181812](https://user-images.githubusercontent.com/81639067/161606499-53130a1a-6682-46dc-a2e5-080c5d29444b.png)
+![Captura de tela 2022-03-30 125634](https://user-images.githubusercontent.com/81639067/161606529-8cff4122-43ee-4336-93e6-820830c66f5a.png)
+![Captura de tela 2022-03-30 100701](https://user-images.githubusercontent.com/81639067/161606551-b4786baa-26d7-4dd7-bed1-b846d1f5a010.png)
+
  👋 OLa pode chamar-me souza
  🔭 Desempregado atualmente   
  🌱 estudando atualmente
